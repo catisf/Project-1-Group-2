@@ -6,6 +6,7 @@
 - do people listen to songs with different danceability pre and post covid
 - do people listen to songs with different energy pre and post covid
 - do people listen to songs with different loudeness pre and post covid
+- are there artists who perform consistently
 
 
 ## source code
