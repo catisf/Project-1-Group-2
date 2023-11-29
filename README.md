@@ -1,11 +1,6 @@
-# Project 1 of UoB Data Bootcamp - Group 2
+# Project 1 of UoB Data Bootcamp - Group 2: Have music listening habits changed over the last 6 years?
 
-# Have music listening habits changed over the last 6 years?
-
-music listening habits have changed 
-![image](https://github.com/catisf/Project-1-Group-2/assets/26868956/b75f3178-6f17-4a49-afdd-36c74b00b52c)
-
-
+## Aim of the project:
 
 - did distribution of music genre changed pre and post covid
 - did average music duration change pre and post covid
