@@ -35,7 +35,6 @@ Once we defined these playlists, we used the [Spotipy API](https://spotipy.readt
 - artist genre
 
 ## Definitions
-
 [Spotify's Web API](https://developer.spotify.com/documentation/web-api) defines the features we extracted for this project as follows:
 ### Track id
 > Unique identifier for the track
