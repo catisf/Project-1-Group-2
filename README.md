@@ -66,6 +66,7 @@ Once we defined these playlists, we used the [Spotipy API](https://spotipy.readt
 In this repo you can find:
 - a folder with the [jupyter notebooks](https://github.com/catisf/Project-1-Group-2/tree/main/jupyter_notebooks) used for data preparation and data analyses. Data analyses notebooks include text that explains the analyses we are conduction and the conclusions from each step;
 - a folder containing the data obtained from the API, as well as the plots resulting from the analyses notebook
+- a presentation
 
 
 
