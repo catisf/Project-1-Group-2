@@ -9,10 +9,10 @@ There are two main reasons that lead us to believe music listening habits have c
   - on the other hand, several articles mention the effects that the rise of social network TikTok (from 2018 on) might be having on the music industry [add references here]
 
 We thus hypothesise that listening habits are likely to have changed, and asked X questions to try and answer our main question:
-  **1. Have the music genres people listen to changed?**
-  **2. Is the duration of the most popular songs decreasing?**
-  **3. How have track features changed?**
-  **4. Artist [change this to an actual question]**
+1. Have the music genres people listen to changed?
+2. Is the duration of the most popular songs decreasing?
+3. How have track features changed?
+4. Artist [change this to an actual question]
 
 ## Data collection
 In order to answer these questions, we first selected 6 playlists, with the top 100 hit songs for the past 6 years. We chose a year span between 2017 and 2022, in order to capture both any changes preceding the rise of TikTok and the COVID pandemic, and any long lasting changes post-COVID. 
