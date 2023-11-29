@@ -62,18 +62,11 @@ Once we defined these playlists, we used the [Spotipy API](https://spotipy.readt
 #### Valence: 
 > A measure from 0.0 to 1.0 describing the musical positiveness conveyed by a track. Tracks with high valence sound more positive (e.g. happy, cheerful, euphoric), while tracks with low valence sound more negative (e.g. sad, depressed, angry).
 
+## About this repo
+In this repo you can find:
+- a folder with the [jupyter notebooks](https://github.com/catisf/Project-1-Group-2/tree/main/jupyter_notebooks) used for data preparation and data analyses. Data analyses notebooks include text that explains the analyses we are conduction and the conclusions from each step;
+- a folder containing the data obtained from the API, as well as the plots resulting from the analyses notebook
 
-
-
-
-
-- did distribution of music genre changed pre and post covid
-- did average music duration change pre and post covid
-- do people listen to songs with different emotional valence pre and post covid
-- do people listen to songs with different danceability pre and post covid
-- do people listen to songs with different energy pre and post covid
-- do people listen to songs with different loudeness pre and post covid
-- are there artists who perform consistently pre and post covid
 
 
 ## source code
