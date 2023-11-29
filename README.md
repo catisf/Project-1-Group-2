@@ -1,5 +1,5 @@
 # Have music listening habits changed over the last 6 years?
-## Project 1 of UoB Data Bootcamp - Group 2
+Project 1 of UoB Data Bootcamp - Group 2
 
 ## Project aim:
 In this project, we aimed to understand whether music listening habits have changed in the last 6 years. 
