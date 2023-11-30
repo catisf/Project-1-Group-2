@@ -74,6 +74,6 @@ In this repo you can find:
 
 ## 5. Source code
 [this still needs to be tidied up]
-some of the code to collect data from here: https://towardsdatascience.com/extracting-song-data-from-the-spotify-api-using-python-b1e79388d50
-genre analysis: code to we unpack the artist genre column adapted from here: https://www.learndatasci.com/solutions/python-pandas-dfexplode/
-ploting subplots: https://matplotlib.org/stable/gallery/subplots_axes_and_figures/subplots_demo.html
+- Code in the data prep jupyter notebook is based on code shared by the instructor, as well as code from [Spotipy documentation](ttps://spotipy.readthedocs.io/en/2.22.1/) and from [here](https://towardsdatascience.com/extracting-song-data-from-the-spotify-api-using-python-b1e79388d50)
+- Genre analysis: code to we unpack the artist genre column adapted from [here](https://www.learndatasci.com/solutions/python-pandas-dfexplode/)
+- Code to plot subplots based on [matplotlib gallery](https://matplotlib.org/stable/gallery/subplots_axes_and_figures/subplots_demo.html)
