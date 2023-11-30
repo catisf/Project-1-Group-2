@@ -1,7 +1,7 @@
 # Have music listening habits changed over the last 6 years?
 Project 1 of UoB Data Bootcamp - Group 2
 
-## Project aim:
+## 1. Project aim:
 In this project, we aimed to understand whether music listening habits have changed in the last 6 years. 
 
 There are two main reasons that lead us to believe music listening habits have changed:
@@ -15,7 +15,7 @@ We thus hypothesise that listening habits are likely to have changed, and asked 
 4. Artist [change this to an actual question]
 
 
-## Data collection
+## 2. Data collection
 In order to answer these questions, we first selected 6 playlists, with the top 100 hit songs for the past 6 years. We chose a year span between 2017 and 2022, in order to capture both any changes preceding the rise of TikTok and the COVID pandemic, and any long lasting changes post-COVID. 
 
 The playlists for each year are the following:
@@ -37,7 +37,7 @@ Once we defined these playlists, we used the [Spotipy API](https://spotipy.readt
 
 [add a note about setting up permissions?]
 
-## Definitions
+## 3. Definitions
 [Spotify's Web API](https://developer.spotify.com/documentation/web-api) defines the features we extracted for this project as follows:
 ### Track id
 > Unique identifier for the track
@@ -65,14 +65,14 @@ Once we defined these playlists, we used the [Spotipy API](https://spotipy.readt
 > A measure from 0.0 to 1.0 describing the musical positiveness conveyed by a track. Tracks with high valence sound more positive (e.g. happy, cheerful, euphoric), while tracks with low valence sound more negative (e.g. sad, depressed, angry).
 
 
-## About this repository
+## 4. About this repository
 In this repo you can find:
 - a folder with the [jupyter notebooks](https://github.com/catisf/Project-1-Group-2/tree/main/jupyter_notebooks) used for data preparation and data analyses. Data analyses notebooks include text that explains the analyses we are conduction and the conclusions from each step;
 - a folder containing the data obtained from the API, as well as the plots resulting from the analyses notebook
 - a presentation
 
 
-## Source code
+## 5. Source code
 [this still needs to be tidied up]
 some of the code to collect data from here: https://towardsdatascience.com/extracting-song-data-from-the-spotify-api-using-python-b1e79388d50
 genre analysis: code to we unpack the artist genre column adapted from here: https://www.learndatasci.com/solutions/python-pandas-dfexplode/
