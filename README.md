@@ -1,22 +1,31 @@
 # Have music listening habits changed over the last 6 years?
 Project 1 of UoB Data Bootcamp - Group 2
 
+## Content:
+1. [Project aim](https://github.com/catisf/Project-1-Group-2/tree/main#1-project-aim)
+2. [Data Collection](https://github.com/catisf/Project-1-Group-2/tree/main#2-data-collection)
+3. [Definitions](https://github.com/catisf/Project-1-Group-2/tree/main#3-definitions)
+4. [Main results](https://github.com/catisf/Project-1-Group-2/tree/main#4-main-results)
+5. [About this repository](https://github.com/catisf/Project-1-Group-2/tree/main#5-about-this-repository)
+6. [Source code](https://github.com/catisf/Project-1-Group-2/tree/main#5-source-code)
+
 ## 1. Project aim:
 In this project, we aimed to understand whether music listening habits have changed in the last 6 years. 
 
 There are two main reasons that lead us to believe music listening habits have changed:
   - on the one hand, the global COVID pandemic (2020-2021) is likely to have lead to changes in how people listen to music and what music they listen to;
-  - on the other hand, several articles mention the effects that the rise of social network TikTok (from 2018 on) might be having on the music industry [add references here]
+  - on the other hand, several articles mention the effects that the rise of social network TikTok (from 2018 on) is having on the music industry (see, for instance [here](https://theconversation.com/love-it-or-hate-it-tiktok-is-changing-the-music-industry-171482)
 
-We thus hypothesise that listening habits are likely to have changed, and asked X questions to try and answer our main question:
+We thus hypothesise that **listening habits are likely to have changed**, and asked the following questions to investigate that question:
 1. Have the music genres people listen to changed?
-2. Is the duration of the most popular songs decreasing?
-3. How have track features changed?
-4. Artist [change this to an actual question]
+2. Have the artists people listen to changed?
+3. Is the duration of the most popular songs decreasing?
+4. How have other track features changed?
 
 
 ## 2. Data collection
-In order to answer these questions, we first selected 6 playlists, with the top 100 hit songs for the past 6 years. We chose a year span between 2017 and 2022, in order to capture both any changes preceding the rise of TikTok and the COVID pandemic, and any long lasting changes post-COVID. 
+In order to answer these questions, we first selected 6 playlists, one for each of the last 6 years. 
+Every year, Spotify releases a playlist with the top 100 hit songs for that year. We chose playlists from 2017 to 2022, in order to capture both any changes preceding the rise of TikTok and the COVID pandemic, as well as any long lasting changes in music listening habits post-COVID. 
 
 The playlists for each year are the following:
 - 2017: https://open.spotify.com/playlist/37i9dQZF1DWTE7dVUebpUW
@@ -26,7 +35,7 @@ The playlists for each year are the following:
 - 2021: https://open.spotify.com/playlist/5GhQiRkGuqzpWZSE7OU4Se
 - 2022: https://open.spotify.com/playlist/56r5qRUv3jSxADdmBkhcz7
 
-Once we defined these playlists, we used the [Spotipy API](https://spotipy.readthedocs.io/en/2.22.1/)  - "a lightweight Python library for the Spotify Web API" - to request the following information about each track on the playlist:
+Once we selected these playlists, we used the [Spotipy API](https://spotipy.readthedocs.io/en/2.22.1/)  - "a lightweight Python library for the Spotify Web API" - to request the following information about each track on the playlist:
 - track ID
 - track name 
 - track popularity
@@ -35,7 +44,8 @@ Once we defined these playlists, we used the [Spotipy API](https://spotipy.readt
 - artist name
 - artist genre
 
-[add a note about setting up permissions?]
+You can see the definition of these features in the next section. 
+
 
 ## 3. Definitions
 [Spotify's Web API](https://developer.spotify.com/documentation/web-api) defines the features we extracted for this project as follows:
@@ -65,15 +75,18 @@ Once we defined these playlists, we used the [Spotipy API](https://spotipy.readt
 > A measure from 0.0 to 1.0 describing the musical positiveness conveyed by a track. Tracks with high valence sound more positive (e.g. happy, cheerful, euphoric), while tracks with low valence sound more negative (e.g. sad, depressed, angry).
 
 
-## 4. About this repository
+## 4. Main conclusions
+
+
+
+## 5. About this repository
 In this repo you can find:
-- a folder with the [jupyter notebooks](https://github.com/catisf/Project-1-Group-2/tree/main/jupyter_notebooks) used for data preparation and data analyses. Data analyses notebooks include text that explains the analyses we are conduction and the conclusions from each step;
-- a folder containing the data obtained from the API, as well as the plots resulting from the analyses notebook
-- a presentation
+- ['jupyter_notebooks' folder](https://github.com/catisf/Project-1-Group-2/tree/main/jupyter_notebooks) containing 2 jupyter notebooks. The notebook "spotipy_data_prep.ipynb" was used for data preparation. It contains the code used to set up permissions to access Spotipy, the list selection and the request for track features and information. The notebook "spotipy_data_analyses.ipynb" was used for all the data analyses. This notebook also includes markdown blocks that set out the aim of the project, explanation of the analyses and conclusions to be derived from them;
+- ['output_data' folder](https://github.com/catisf/Project-1-Group-2/tree/main/output_data) containing a csv file ('spotipy_data.csv') with the data requested from the API, as well as all the plots resulting from the data analyses notebook.
+- ['report' folder](https://github.com/catisf/Project-1-Group-2/tree/main/report) containing the slide deck for the presentation of the project
 
 
-## 5. Source code
-[this still needs to be tidied up]
+## 6. Source code
 - Code in the data prep jupyter notebook is based on code shared by the instructor, as well as code from [Spotipy documentation](ttps://spotipy.readthedocs.io/en/2.22.1/) and from [here](https://towardsdatascience.com/extracting-song-data-from-the-spotify-api-using-python-b1e79388d50)
 - Genre analysis: code to we unpack the artist genre column adapted from [here](https://www.learndatasci.com/solutions/python-pandas-dfexplode/)
 - Code to plot subplots based on [matplotlib gallery](https://matplotlib.org/stable/gallery/subplots_axes_and_figures/subplots_demo.html)
