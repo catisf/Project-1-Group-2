@@ -90,3 +90,4 @@ In this repo you can find:
 - Code in the data prep jupyter notebook is based on code shared by the instructor, as well as code from [Spotipy documentation](ttps://spotipy.readthedocs.io/en/2.22.1/) and from [here](https://towardsdatascience.com/extracting-song-data-from-the-spotify-api-using-python-b1e79388d50)
 - Genre analysis: code to we unpack the artist genre column adapted from [here](https://www.learndatasci.com/solutions/python-pandas-dfexplode/)
 - Code to plot subplots based on [matplotlib gallery](https://matplotlib.org/stable/gallery/subplots_axes_and_figures/subplots_demo.html)
+- Code to plot subplots with 2 or more scales based on [matplotlib gallery](https://matplotlib.org/stable/gallery/subplots_axes_and_figures/two_scales.html)
