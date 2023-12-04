@@ -19,7 +19,7 @@ In this project, we aimed to understand **whether music listening habits have ch
 
 There are two main reasons that lead us to believe music listening habits might have changed:
   - the global COVID pandemic (2020-2021) is likely to have lead to changes in how people listen to music and what music they listen to;
-  - several articles mention the effects that the rise of social network TikTok (from 2018 on) is having on the music industry (see, for instance [here](https://theconversation.com/love-it-or-hate-it-tiktok-is-changing-the-music-industry-171482))
+  - several articles mention the effects that the rise of social network TikTok (from 2018 on) is having on the music industry (see, for instance [here](https://theconversation.com/love-it-or-hate-it-tiktok-is-changing-the-music-industry-171482)).
 
 We thus hypothesise that **listening habits are likely to have changed**, and asked the following questions to investigate our hypothesis:
 1. Have the music genres people listen to changed?
@@ -33,7 +33,7 @@ Every year, Spotify releases a playlist with the top 100 hit songs for that year
 
 ![Screenshot of Top hits 2017 playlist by Spotify](https://github.com/catisf/Project-1-Group-2/blob/main/readme_images/playlist.png)
 
-In order to answer our research questions, we first selected 6 playlists, one for each of the last 6 years. We chose playlists spanning from 2017 to 2022, in order to capture both any changes preceding the rise of TikTok and the COVID pandemic, as well as any long lasting changes in music listening habits post-COVID. 
+In order to answer our research questions, we first selected 6 playlists, one for each of the last 6 years. We chose playlists spanning from 2017 to 2022, in order to capture both, any changes preceding the rise of TikTok and the COVID pandemic, as well as any long lasting changes in music listening habits post-COVID. 
 
 The playlists for each year are the following:
 - 2017: https://open.spotify.com/playlist/37i9dQZF1DWTE7dVUebpUW
