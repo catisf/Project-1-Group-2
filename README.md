@@ -13,8 +13,8 @@ Project 1 of UoB Data Bootcamp - Group 2
 In this project, we aimed to understand whether music listening habits have changed in the last 6 years. 
 
 There are two main reasons that lead us to believe music listening habits have changed:
-  - on the one hand, the global COVID pandemic (2020-2021) is likely to have lead to changes in how people listen to music and what music they listen to;
-  - on the other hand, several articles mention the effects that the rise of social network TikTok (from 2018 on) is having on the music industry (see, for instance [here](https://theconversation.com/love-it-or-hate-it-tiktok-is-changing-the-music-industry-171482))
+  - the global COVID pandemic (2020-2021) is likely to have lead to changes in how people listen to music and what music they listen to;
+  - several articles mention the effects that the rise of social network TikTok (from 2018 on) is having on the music industry (see, for instance [here](https://theconversation.com/love-it-or-hate-it-tiktok-is-changing-the-music-industry-171482))
 
 We thus hypothesise that **listening habits are likely to have changed**, and asked the following questions to investigate that question:
 1. Have the music genres people listen to changed?
