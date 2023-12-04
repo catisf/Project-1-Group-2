@@ -15,9 +15,9 @@
 8. [Collaborators/Team](https://github.com/catisf/Project-1-Group-2/tree/main#8-collaboratorsteam)
 
 ## 1. Project aim:
-In this project, we aimed to understand whether music listening habits have changed in the last 6 years. 
+In this project, we aimed to understand **whether music listening habits have changed** in the last 6 years. 
 
-There are two main reasons that lead us to believe music listening habits have changed:
+There are two main reasons that lead us to believe music listening habits might have changed:
   - the global COVID pandemic (2020-2021) is likely to have lead to changes in how people listen to music and what music they listen to;
   - several articles mention the effects that the rise of social network TikTok (from 2018 on) is having on the music industry (see, for instance [here](https://theconversation.com/love-it-or-hate-it-tiktok-is-changing-the-music-industry-171482))
 
