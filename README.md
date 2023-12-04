@@ -106,7 +106,7 @@ It is important to bear in mind some limitations to our analyses.
 
 
 ## 5. Set up and running the code
-### Dependencies
+### 1. Install dependencies
 In order to run the files you will need to install the following packages:
 - jupyter notebook `pip install notebook`
 - matplotlib `pip install matplotlib`
@@ -115,13 +115,13 @@ In order to run the files you will need to install the following packages:
 - scipy `pip install scipy`
 - spotipy `pip install spotipy`
 
-### Get Spotify credentials
+### 2. Get Spotify credentials
 Then you will need to get your Spotify credentials. On the [Spotify's Web API](https://developer.spotify.com/documentation/web-api) click on 'Getting started' and follow the instructions on the page to get your 'client_id' and 'client_secret'. 
 
 > [!IMPORTANT]
 > You need to have a Spotify account in order to request your credentials.
 
-## Running the code
+### 3. Run the code
 Once all the packages have been installed:
 1. Clone the repository
 2. Open a text editor or VS code and copy your Spotify credentials (client_id and client_secret) onto a file named 'config.py', using the following syntaxt:
