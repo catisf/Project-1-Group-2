@@ -100,9 +100,9 @@ As we hypothesized, **music habits seem to have changed in the past 6 years**. I
 
 ### Limitations
 It is important to bear in mind some limitations to our analyses. 
-Firstly, we only collected data for the most popular songs each year. These songs are likely to naturally share features, limiting our conclusions. In further analyses, it would be interesting to compare the features of top hit songs with significantly less popular songs. 
-Another limitation is that we only analysed data for the past 6 years. Although this allowed us to draw some conclusions around habits pre and post COVID, as well as how habits relate to TikTok usage, a lot of these trends might have been occurring for much longer. For instance, as [this article](https://www.billboard.com/pro/songs-getting-shorter-tiktok-streaming/) on Billboard suggests, the duration of top 100 hit songs has been changing since 2000. 
-Lastly, we chose to analyse the year a song was popular, not when it was released. Looking at songs' release dates might have shown a different picture altogether. 
+- Firstly, we only collected data for the most popular songs each year. These songs are likely to naturally share features, limiting our conclusions. In further analyses, it would be interesting to compare the features of top hit songs with significantly less popular songs. 
+- Another limitation is that we only analysed data for the past 6 years. Although this allowed us to draw some conclusions around habits pre and post COVID, as well as how habits relate to TikTok usage, a lot of these trends might have been occurring for much longer. For instance, as [this article](https://www.billboard.com/pro/songs-getting-shorter-tiktok-streaming/) on Billboard suggests, the duration of top 100 hit songs has been changing since 2000. 
+- Lastly, we chose to analyse the year a song was popular, not when it was released. Looking at songs' release dates might have shown a different picture altogether. 
 
 
 ## 5. Set up and running the code
@@ -116,7 +116,7 @@ In order to run the files you will need to install the following packages:
 - spotipy `pip install spotipy`
 
 ### Get Spotify credentials
-On [Spotify's Web API](https://developer.spotify.com/documentation/web-api) click on 'Getting started' and follow the instructions on the page to get your 'client_id' and 'client_secret'. 
+Then you will need to get your Spotify credentials. On the [Spotify's Web API](https://developer.spotify.com/documentation/web-api) click on 'Getting started' and follow the instructions on the page to get your 'client_id' and 'client_secret'. 
 
 > [!IMPORTANT]
 > You need to have a Spotify account in order to request your credentials.
