@@ -1,6 +1,6 @@
 # Have music listening habits changed over the last 6 years?
 
-!(https://github.com/catisf/Project-1-Group-2/blob/main/readme_images/pexels-kaboompics-com-6399.jpg)
+![Photo from above of someone listening to music on their hearphones](https://github.com/catisf/Project-1-Group-2/blob/main/readme_images/pexels-kaboompics-com-6399.jpg)
 
 ## Project 1 of UoB Data Bootcamp - Group 2
 
