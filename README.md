@@ -88,7 +88,7 @@ The information obtained from Spotipy was then combined into a single dataframe.
 As we hypothesized, **music habits seem to have changed in the past 6 years**. In our exploratory data analysis we found that:
 1. Whilst pop and rap consistently occupy the first two positions at the top of the most listened-to genres, a lot of sub-genres of pop have risen around the period of COVID-19;
    
-![Plot top 10 genres per year](https://github.com/catisf/Project-1-Group-2/blob/main/readme_images/top_genres_numsongs.png=250x250)
+![Plot top 10 genres per year](https://github.com/catisf/Project-1-Group-2/blob/main/readme_images/top_genres_numsongs.png)
 
 2. Only 5 artists had a song in the top 100 in every year, indicating people’s preferences change on a yearly base;
    
