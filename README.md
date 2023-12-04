@@ -96,7 +96,7 @@ As we hypothesized, **music habits seem to have changed in the past 6 years**. I
    
 ![Plot correlation duration vs tik tok users](https://github.com/catisf/Project-1-Group-2/blob/main/readme_images/duration_line_tiktok.png)
 
-4. There has been a downward trend for features such as danceability and energy, but the songs people listen to are becoming more positive.  
+4. There has been a downward trend for features such as danceability and energy (songs score lower on these features), but the songs people listen to are becoming more positive (songs score higher on valence).  
 
 ### Limitations
 It is important to bear in mind some limitations to our analyses. 
