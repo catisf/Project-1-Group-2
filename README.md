@@ -87,11 +87,13 @@ The information obtained from Spotipy was then combined into a single dataframe.
 ## 4. Main conclusions
 As we hypothesized, **music habits seem to have changed in the past 6 years**. In our exploratory data analysis we found that:
 1. Whilst pop and rap consistently occupy the first two positions at the top of the most listened-to genres, a lot of sub-genres of pop have risen around the period of COVID-19;
+   
 ![Plot top 10 genres per year](https://github.com/catisf/Project-1-Group-2/blob/main/readme_images/top_genres_numsongs.png)
 
 2. Only 5 artists had a song in the top 100 in every year, indicating people’s preferences change on a yearly base;
    
 3. Songs are getting shorter in general. Song duration correlates strongly with the number of Tik-Tok users, so that the higher the number of Tik-Tok users, the smaller the duration of the songs
+   
 ![Plot correlation duration vs tik tok users](https://github.com/catisf/Project-1-Group-2/blob/main/readme_images/duration_line_tiktok.png)
 
 4. There has been a downward trend for features such as danceability and energy, but the songs people listen to are becoming more positive.  
@@ -114,7 +116,7 @@ In order to run the files you will need to install the following packages:
 - spotipy `pip install spotipy`
 
 ### Get Spotify credentials
-On [Spotify's Web API](https://developer.spotify.com/documentation/web-api) click on 'Getting started' and follow the instructions on the page to get your `client_id` and `client_secret`. 
+On [Spotify's Web API](https://developer.spotify.com/documentation/web-api) click on 'Getting started' and follow the instructions on the page to get your 'client_id' and 'client_secret'. 
 
 > [!IMPORTANT]
 > You need to have a Spotify account in order to request your credentials.
