@@ -6,7 +6,7 @@
 
 ## Content:
 1. [Project aim](https://github.com/catisf/Project-1-Group-2/tree/main#1-project-aim)
-2. [Data Collection](https://github.com/catisf/Project-1-Group-2/tree/main#2-data-collection)
+2. [Data Collection and preparation](https://github.com/catisf/Project-1-Group-2/tree/main#2-data-collection-and-preparation)
 3. [Definitions](https://github.com/catisf/Project-1-Group-2/tree/main#3-definitions)
 4. [Main results](https://github.com/catisf/Project-1-Group-2/tree/main#4-main-results)
 5. [Running the code](https://github.com/catisf/Project-1-Group-2/tree/main#5-running-the-code)
