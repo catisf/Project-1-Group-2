@@ -6,13 +6,13 @@
 
 ## Content:
 1. [Project aim](https://github.com/catisf/Project-1-Group-2/tree/main#1-project-aim)
-2. [Data Collection and preparation](https://github.com/catisf/Project-1-Group-2/tree/main#2-data-collection-and-preparation)
+2. [Data collection and preparation](https://github.com/catisf/Project-1-Group-2/tree/main#2-data-collection-and-preparation)
 3. [Definitions](https://github.com/catisf/Project-1-Group-2/tree/main#3-definitions)
-4. [Main results](https://github.com/catisf/Project-1-Group-2/tree/main#4-main-results)
+4. [Main conclusions](https://github.com/catisf/Project-1-Group-2/tree/main#4-main-conclusions)
 5. [Running the code](https://github.com/catisf/Project-1-Group-2/tree/main#5-running-the-code)
-6. [Repository structure](https://github.com/catisf/Project-1-Group-2/tree/main#6repository-structure)
+6. [Repository structure](https://github.com/catisf/Project-1-Group-2/tree/main#6-repository-structure)
 7. [Source code](https://github.com/catisf/Project-1-Group-2/tree/main#7-source-code)
-8. [Collaborators/Team](https://github.com/catisf/Project-1-Group-2/tree/main#8-collaborators-team)
+8. [Collaborators/Team](https://github.com/catisf/Project-1-Group-2/tree/main#8-collaboratorsteam)
 
 ## 1. Project aim:
 In this project, we aimed to understand whether music listening habits have changed in the last 6 years. 
