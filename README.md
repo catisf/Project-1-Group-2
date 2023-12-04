@@ -1,5 +1,8 @@
 # Have music listening habits changed over the last 6 years?
-Project 1 of UoB Data Bootcamp - Group 2
+
+!(https://github.com/catisf/Project-1-Group-2/blob/main/readme_images/pexels-kaboompics-com-6399.jpg)
+
+## Project 1 of UoB Data Bootcamp - Group 2
 
 ## Content:
 1. [Project aim](https://github.com/catisf/Project-1-Group-2/tree/main#1-project-aim)
